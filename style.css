@@ -12,13 +12,7 @@ body {
     font-size:8vmin;
     box-shadow: 0 0 1rem rgb(0,0,0.12);
 }
-/* .confetti{
-    max-width: 640px;
-    display: block;
-    margin: 0 auto;
-    border: 1px solid #ddd;
-    user-select: none;
-} */
+/*no cofetti required*/
 .msg{
     margin : 10px;
     height : 5vmin;  
